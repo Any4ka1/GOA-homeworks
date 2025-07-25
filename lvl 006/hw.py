@@ -12,4 +12,25 @@ number_2 = int(input("enter your number: "))
 print(number_1 > number_2)
 print(number_1 < number_2)
 print(number_1 <= number_2)
-print(number_1 >= number_2)
+print(number_1 >= number_2) #comparative examples
+
+
+number_1 = int(input("enter you number: "))
+number_2 = int(input("enter your number: "))
+
+
+print(number_1 > number_2)
+print(number_1 < number_2)
+print(number_1 <= number_2)
+print(number_1 >= number_2)  
+print(number_1 == number_2)
+print(number_1 != number_2) #true or false examples
+
+
+# BOSS HOMEWORK EVEN OR ODD
+
+nashti = 40 & 3
+print(nashti)
+
+unashto = 40 & 2
+print(unashto)
