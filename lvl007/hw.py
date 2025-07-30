@@ -14,8 +14,10 @@ if 0 < 59 :
     print("its really bad")
 
    
-    if 35 > 25 :
-    print("short t-shirt and shorts")
+    
+if 35 > 25 :
+    print ("short t-shirt and shorts")
+
 
 if 0 < 10 :
     print("coat and warm clothes")
