@@ -1,0 +1,1 @@
+#we learned to reinstall windows
