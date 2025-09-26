@@ -20,8 +20,5 @@ e = False
 
 print(a)
 print(b)
-print (c)
 
 # given said variables update some of them and then output
-#mere gaagrdzele giostan genioso
-# :o
