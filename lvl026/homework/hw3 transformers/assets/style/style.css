@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+h1 {
+  color: rgb(188, 12, 12);
+ h2{
+  color: rgb(60, 99, 205);}
+}
+p {
+  color: rgba(194, 73, 199, 0.633);
+}
+ul {
+  color: rgb(226, 131, 30);
+}
+li {
+  color: rgb(255, 255, 255);
+}
