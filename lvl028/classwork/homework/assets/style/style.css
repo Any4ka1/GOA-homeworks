@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #897840;
+}
+
+.header {
+    background-color: rgb(194, 199, 173);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+body {
+  background-color: rgb(37, 37, 37);
+}
+
+h1 {
+  color: rgb(178, 160, 74);
+}
+
+p {
+  color: rgba(178, 160, 74);
+
+}
+
+li {
+
+    color: #000000;
+}
+image {
+    width: 100px;
+    height: 100px;
+    image-orientation: flip;
+}
+p {
+    color: #ffffff;
+}
