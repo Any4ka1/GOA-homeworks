@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ color: rgb(0, 0, 0);
+}
+.classic{
+    color: rgb(87, 115, 166);
+    text-align: center;
+    text-shadow: 0px 0px 1px;
+}
+
+.classic1{
+    color: rgb(248, 62, 198);
+    text-align: center;
+}
+
+.classic2{
+    color: rgb(122, 31, 208);
+    text-align: center;
+}
+
+.classic3{
+    color: rgb(142, 183, 102);
+    text-align: center;
+}
+
+.click{
+    box-sizing: border-box;
+    color: rgb(103, 103, 243);
+    background-color: rgb(210, 107, 153);
+    border-color: rgb(236, 57, 131);
+}

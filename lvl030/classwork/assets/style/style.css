@@ -1,0 +1,25 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(0, 0, 0);
+}
+.unordered-1 {
+    color: rgb(74, 35, 106);
+background-color: rgb(156, 27, 111)
+}  
+
+.unordered-2 {
+    color: rgb(0, 0, 0);
+background-color: rgb(221, 170, 0);
+}
+
+.unordered-3 {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 20px;
+}
