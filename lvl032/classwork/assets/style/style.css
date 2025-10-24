@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-box{
+    
+    background-image: url(../gif/petpet.gif), url(../photos/catboy.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.bg-box h1{
+    color: rgb(33, 11, 34);
+    font-size: 120px;
+    text-align: center;
+}
+
+.bg-box h2{
+    color: rgb(201, 112, 10);
+    font-size: 80px;
+    text-align: center;
+}
+
+.bg-box2{
+    background-image: url(../photos/catboy.jpg);
+    background-repeat: no-repeat;
+    background-size: 5px, cover;
+    background-position-x: 0%, 0;
+    background-position-y: 0%, 0;
+    width: 25px;
+    height: 25vh;
+}
+
