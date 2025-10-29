@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #2b2e4a, #e84545);
+  color: #f7f7f7;
+  line-height: 1.6;
+}
+
+header {
+  background: linear-gradient(to right, #903749, #53354a);
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #ffd460;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}

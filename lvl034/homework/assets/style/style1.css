@@ -1,0 +1,28 @@
+/* General styling */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(135deg, #a83279, #d38312);
+  /* A warm gradient representing herbal and palace colors */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+header {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px 0;
+  backdrop-filter: blur(6px);
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin: 0;
+  font-family: "Playfair Display", serif;
+}
+
+
+
