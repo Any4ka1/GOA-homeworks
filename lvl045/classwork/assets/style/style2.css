@@ -1,0 +1,20 @@
+/* restart css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  height: 100vh;
+}
+.box{
+  width: 60px;
+  height: 60px;
+}
+
+.purple{ background:purple }
+.magenta{ background:magenta }
