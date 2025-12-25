@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.omg{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(72, 146, 154);
+}
+.imtired{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(191, 88, 88);
+   
+}
+.cubes{
+    display: flex;
+    flex-direction: row;
+}
+.greenn{
+    height: 50px;
+    width: 500px;
+    background-color: rgb(63, 198, 106);
+}

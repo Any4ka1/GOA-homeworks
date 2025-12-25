@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000000;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.row {
+    display: flex;
+    gap: 5px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.box {
+    width: 80px;
+    height: 40px;
+}
+.big {
+    width: 145px;
+    height: 150px;
+}
+.red {
+    background-color: #862525;
+}
+.orange {
+    background-color: #ba8841;
+}
+.purple {
+    background-color: #922692;
+}
+.idk {
+    background-color: #38b0b0;
+}
