@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+button {
+  color: #534262;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+button:hover {
+  background-color: #a583c2;
+}
+button:focus {
+  outline: 3px solid purple;
+}

@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top-bar {
+    background-color: #232f3e;
+    padding: 7px;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.item {
+    color: #ffffff;
+    font-size: 14px;
+    white-space: nowrap;
+}

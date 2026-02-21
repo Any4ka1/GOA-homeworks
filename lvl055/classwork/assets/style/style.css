@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-bar {
+    background-color: #232f3e;
+    padding: 7px;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+.item {
+    color: #ffffff;
+    font-size: 14px;
+    white-space: nowrap;
+}
+.smth-banner {
+    max-width: 1650px;   
+    margin: 0 auto;
+    position: relative; 
+}
+.smth-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+#idk-main {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.most-sell {
+    background-color: rgb(33, 9, 79);
+    width: 100%;
+    height: 300px;
+}

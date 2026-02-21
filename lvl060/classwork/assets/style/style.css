@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxes {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 15px;
+  width: 600px;
+  margin: 20px auto;
+}
+
+.boxes div {
+  padding: 20px;
+  font-size: 27px;
+  min-height: 100px;
+}
+
+.b1 { background: cyan;    }
+.b2 { background: magenta;  grid-row: span 2; }
+.b3 { background: yellow;   }
+.b4 { background: lime;     }
+.b5 { background: orange;   }
