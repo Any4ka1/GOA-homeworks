@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.wonderhoy {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(0, 7, 99);
+}
+
+.wonderhoy:nth-child(8n) {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
