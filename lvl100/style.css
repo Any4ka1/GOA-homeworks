@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --primary-bg: rgb(157, 157, 157);
+    --primary-text: rgb(0, 0, 0);
+}
+
+.dark {
+    --primary-bg: rgb(0, 0, 0);
+    --primary-text: rgb(157, 157, 157);
+}
+
+body {
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
+}
+.box {
+    background-color: var(--primary-text);
+    color: var(--primary-bg);
+    padding: 40px 50px;
+    cursor: pointer;
+}
